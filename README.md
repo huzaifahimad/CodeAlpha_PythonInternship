@@ -3,7 +3,7 @@
 > **Intern:** Huzaifa Himad  
 > **Student ID:** CA/DF1/101068  
 > **Program:** CodeAlpha Python Programming Internship  
-> **GitHub Repo:** `CodeAlpha_PythonInternship`
+> **GitHub Repo:** `CodeAlpha_Simple`
 
 A complete collection of three Python internship projects, each built to a professional standard with clean architecture, full input validation, type hints, docstrings, and individual README documentation.
 
@@ -12,7 +12,7 @@ A complete collection of three Python internship projects, each built to a profe
 ## 📁 Repository Structure
 
 ```
-CodeAlpha_PythonInternship/
+CodeAlpha_Simple/
 │
 ├── README.md                            ← You are here (master overview)
 │
@@ -42,8 +42,8 @@ CodeAlpha_PythonInternship/
 
 ```bash
 # Clone the repository
-git clone https://github.com/huzaifahimad/CodeAlpha_PythonInternship.git
-cd CodeAlpha_PythonInternship
+git clone https://github.com/huzaifahimad/CodeAlpha_Simple.git
+cd CodeAlpha_Simple
 
 # Run any task directly
 python Task1_Hangman/hangman.py
