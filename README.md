@@ -20,14 +20,14 @@ CodeAlpha_PythonInternship/
 │   ├── hangman.py                       ← Hangman game
 │   └── README.md
 │
-├── Task2_StockPortfolioTracker/
+├── Task2_Stock_Portfolio_Tracker/
 │   ├── stock_tracker.py                 ← Portfolio tracker
 │   ├── README.md
 │   └── output/                          ← Auto-created on export
 │       ├── portfolio_report.csv
 │       └── portfolio_report.txt
 │
-├── Task3_TaskAutomation/
+├── Task3_Task_Automation_with_Python_Scripts/
 │   ├── automation.py                    ← 3-module automation suite
 │   ├── README.md
 │   └── output/                          ← Auto-created on save
@@ -118,7 +118,7 @@ python Task2_StockPortfolioTracker/stock_tracker.py
 
 ### ⚙️ Task 3 — Task Automation Suite
 
-**File:** `Task3_TaskAutomation/automation.py`
+**File:** `Task3_Task_Automation_with_Python_Scripts/automation.py`
 
 Three automation scripts in one interactive suite, selectable via a menu:
 
